@@ -1,9 +1,12 @@
-# phishing-hub
+0x00 概述
+
+   现在webshell打点比较困难了，钓鱼越来越成为红队打点的重要手段，所以做个在钓鱼打点学习过程中的总结吧。
+   
+   
+0x01 免责声明
+
+   该项目仅供授权下使用学习，禁止使用该项目进行违法操作，否则自行承担后果，请各位遵守《中华人民共和国网络安全法》
 
 
 
-CS生成的马很多改ICO软件都不能成功修改图标，推荐使用Restorator修改图标
 
-参考优秀文章：https://www.sqlsec.com/2020/10/csexe.html
-
-下载地址：https://www.sqlsec.com/tools.html
