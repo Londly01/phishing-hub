@@ -1,1 +1,9 @@
 # phishing-hub
+
+
+
+CS生成的马很多改ICO软件都不能成功修改图标，推荐使用Restorator修改图标
+
+参考优秀文章：https://www.sqlsec.com/2020/10/csexe.html
+
+下载地址：https://www.sqlsec.com/tools.html
