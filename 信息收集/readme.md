@@ -19,7 +19,7 @@
 		header = {
 		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
 		"Referer":"https://www.tianyancha.com/",
-		"Cookie":"aliyungf_tc=ebac36043be5d3ff8bad0668574eee72c6d1862286e3f6aff8bef0358184db6f"}
+		"Cookie":"XXXX"}
 		url = f"https://www.tianyancha.com/search?key={quote(companyName)}"
 		html = requests.get(url=url, headers=header, verify=False).text
 
@@ -65,7 +65,7 @@ def subsidiary(company,gid,rate,delay):
 		"content-type":"application/json",
 		"version":"TYC-Web",
 		"x-tycid":"1edbe4006ea111eca2d6fdac49e21176",
-		"Cookie":"aliyungf_tc=ebac36043be5d3ff8bad0668574eee72c6d1862286e3f6aff8bef0358184db6f"}
+		"Cookie":"aliyungf_tc=XXXX"}
 		url = f"https://capi.tianyancha.com/cloud-company-background/company/investListV2?_={int(round(time.time() * 1000))}"
 		data = {"gid":gid,"pageSize":10,"pageNum":1,"province":"-100","percentLevel":rateList[rate],"category":"-100"}
 		resData = requests.post(url=url,json=data,headers=header,verify=False).json()["data"]
