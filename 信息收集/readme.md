@@ -10,7 +10,8 @@
         
         记得加上分支机构根域获取参数，也可以自己写个脚本获取某某查的信息，下面是自己写的部分核心源码，获取根域信息。
         
-        ```
+        
+```
         def getGId(companyName):
 	try:
 		company = ""
@@ -103,7 +104,7 @@ def subsidiary(company,gid,rate,delay):
 		return myDatas
 	except KeyboardInterrupt:
 		exit()
-        ```
+```
         
 ## 0x02 子域名获取
 
