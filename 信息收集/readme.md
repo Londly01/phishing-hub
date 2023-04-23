@@ -32,6 +32,8 @@
         
 ## 0x04 其他收集技巧
 
+        谷歌语法：
+
         site:*.XXX.COM  intext: vpn | 用户名 | 密码 | 帐号 | 默认密码  | 后台 | 管理 | 登录
         
         site:*.XXX.COM intext:管理|后台|登陆|用户名|密码|验证码|系统|帐号|admin|login|sys|managetem|password|username
@@ -53,5 +55,19 @@
         site:*.XXX.COM ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup 备份和历史文件泄露
         
         site:*.XXX.COM intext: vpn | 用户名 | 密码 | 帐号 | 默认密码
+        
+        空间测绘各种语法：自己探索吧，包括后台，开放端口，敏感信息，js等等
 
+## 0x05 漏洞检测及利用
 
+       我写的2款工具一套打下来
+       
+       https://github.com/Londly01/Londly01-safety-tool 
+       
+       https://github.com/Londly01/Londly02
+       
+       关于弱口令：可以通过空间测绘找到各种后台，然后爆破账户密码，后台想办法拿shell
+       
+       在线字典生成网站：https://www.ddosi.org/pass8/index.html
+       
+       
