@@ -152,7 +152,7 @@ def subsidiary(company,gid,rate,delay):
         
         site:*.XXX.COM intext: vpn | 用户名 | 密码 | 帐号 | 默认密码
         
-        空间测绘各种语法：自己探索吧，包括后台，开放端口，敏感信息，js等等
+        空间测绘各种语法：自己探索吧，包括后台，开放端口，敏感信息，js，等等
 
 ## 0x05 漏洞检测及利用
 
