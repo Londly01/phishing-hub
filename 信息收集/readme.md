@@ -1,3 +1,7 @@
+![微信截图_20230818221924](https://github.com/Londly01/phishing-hub/assets/118274389/8bcb30b9-c5f5-44fa-927c-c9c45892ffec)
+
+
+
 ## 0x00 收集思路
 
         常规方法：目标根域、控股子公司根域名、分支机构根域 -> 子域名 -> ip全端口 -> 连续ip -> web爬虫及web路径
