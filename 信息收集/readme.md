@@ -1,6 +1,6 @@
 ![微信截图_20230818221924](https://github.com/Londly01/phishing-hub/assets/118274389/8bcb30b9-c5f5-44fa-927c-c9c45892ffec)
 
-
+之前团队写的一个脑图，加上个人的打点思路，整理如下：
 
 ## 0x00 收集思路
 
