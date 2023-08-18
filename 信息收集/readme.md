@@ -171,3 +171,11 @@ def subsidiary(company,gid,rate,delay):
        在线字典生成网站：https://www.ddosi.org/pass8/index.html
        
        
+## 0x06 host碰撞分析
+
+       原理不多说
+
+       推荐项目 https://github.com/pmiaowu/HostCollision
+       
+
+   
